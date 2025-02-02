@@ -1,6 +1,6 @@
 # Tasks API
 
-Este é um projeto de API para gerenciar tarefas, desenvolvido em Python com FastAPI e SQLite. A API permite criar, ler, atualizar e deletar tarefas de forma simples e eficiente.
+Este é um projeto de API RESTful para gerenciamento tarefas, desenvolvido em Python com FastAPI e SQLite. A API permite criar, ler, atualizar e deletar tarefas de forma simples e eficiente.
 
 ## Funcionalidades
 
@@ -113,4 +113,4 @@ A API estará disponível localmente em `http://localhost:8000`.
 
 ### Conclusão
 
-O repositório `tasks_api` fornece uma implementação básica de uma API para gerenciamento de tarefas, utilizando tecnologias modernas e práticas recomendadas para desenvolvimento de APIs. Cada arquivo tem um papel específico, contribuindo para a funcionalidade e a organização do projeto.
+O repositório `tasks_api` fornece uma implementação básica de uma API RESTful para gerenciamento de tarefas, utilizando tecnologias modernas e práticas recomendadas para desenvolvimento de APIs. Cada arquivo tem um papel específico, contribuindo para a funcionalidade e a organização do projeto.
